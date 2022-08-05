@@ -4,7 +4,7 @@
     key    = "state.tfstate"
     region = "us-east-1"
     profile = "jespo"
-    dynamodb_table = "firstprojecttable"
+    dynamodb_table = "terraform-state-lock"
    }
  }
 
